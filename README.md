@@ -1,5 +1,6 @@
 # WordleSolver
 Wordle Solver is a tool to solve New York Times daily word game called Wordle.
+------------------------------------------------------------------------------------
 This project was inspired by 3blue1Brown's video, where he goes over the mathematical theory behind wordle.
 -------------------------------------------------------------------------------------------------------------------
 Directions:
