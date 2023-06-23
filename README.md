@@ -6,5 +6,5 @@ This project was inspired by 3blue1Brown's video, where he goes over the mathema
 Directions:
 1. Enter a starting word
 2. Give feedback for the word
-🟩:G --- 🟨:Y --- ⬜️:G
+🟩:G --- 🟨:Y --- ⬜️:X
 3. Repeat steps 1 and 2
